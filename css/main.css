@@ -59,6 +59,7 @@ html {
     text-align: center;
     text-decoration: none;
     transition: all .25s linear;
+    margin: 1em;
 }
 
 .green:hover {
@@ -81,6 +82,7 @@ html {
     text-align: center;
     text-decoration: none;
     transition: all .25s linear;
+    margin: 1em;
 }
 
 .button {
